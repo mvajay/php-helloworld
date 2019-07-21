@@ -1,8 +1,9 @@
 <html>
  <head>
-  <title>PHP Test 4</title>
+  <title>PHP Test 5</title>
  </head>
  <body>
- <?php echo '<p>Hello World Again 4</p>'; ?> 
+ <?php echo '<p>Hello World Again 5</p>'; ?> 
+	print "Hello, World Again 5! php version is " . PHP_VERSION . "\n";
  </body>
 </html>
